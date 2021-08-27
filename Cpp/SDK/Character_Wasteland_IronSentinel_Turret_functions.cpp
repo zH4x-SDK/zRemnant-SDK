@@ -1,0 +1,393 @@
+﻿// Name: Remnant, Version: 1.0
+
+#include "../pch.h"
+
+/*!!DEFINE!!*/
+
+/*!!HELPER_DEF!!*/
+
+/*!!HELPER_INC!!*/
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+//---------------------------------------------------------------------------
+// Functions
+//---------------------------------------------------------------------------
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetMinionOwner
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetMinionOwner()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetMinionOwner");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetMinionOwner_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetCauseDamageScalar
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetCauseDamageScalar()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetCauseDamageScalar");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetCauseDamageScalar_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MinionHasDamageTag
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::MinionHasDamageTag()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MinionHasDamageTag");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_MinionHasDamageTag_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.HasSoulEmberTrinket
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::HasSoulEmberTrinket()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.HasSoulEmberTrinket");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_HasSoulEmberTrinket_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetSpawnTime
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetSpawnTime()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetSpawnTime");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetSpawnTime_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.IsValidMinion
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::IsValidMinion()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.IsValidMinion");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_IsValidMinion_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetBrutalMarkDamageMod
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetBrutalMarkDamageMod()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetBrutalMarkDamageMod");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetBrutalMarkDamageMod_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetArmorScalars
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetArmorScalars()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetArmorScalars");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetArmorScalars_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetPunisherDamageMod
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::GetPunisherDamageMod()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.GetPunisherDamageMod");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_GetPunisherDamageMod_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ModifyDamage
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::ModifyDamage()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ModifyDamage");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_ModifyDamage_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ModifyStats
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::ModifyStats()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ModifyStats");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_ModifyStats_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MC_BuildUp
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::MC_BuildUp()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MC_BuildUp");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_MC_BuildUp_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ReceiveBeginPlay
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::ReceiveBeginPlay()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ReceiveBeginPlay");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_ReceiveBeginPlay_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnDead_Event_1
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::OnDead_Event_1()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnDead_Event_1");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_OnDead_Event_1_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MulticastDissolveOut
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::MulticastDissolveOut()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MulticastDissolveOut");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_MulticastDissolveOut_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.DissolveOut
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::DissolveOut()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.DissolveOut");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_DissolveOut_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnPostComputeStats
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::OnPostComputeStats()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnPostComputeStats");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_OnPostComputeStats_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnDead_Event_2
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::OnDead_Event_2()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnDead_Event_2");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_OnDead_Event_2_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.NotifyHitTarget
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::NotifyHitTarget()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.NotifyHitTarget");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_NotifyHitTarget_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.DestroyMinion
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::DestroyMinion()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.DestroyMinion");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_DestroyMinion_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnOwnerComputeStats
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::OnOwnerComputeStats()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.OnOwnerComputeStats");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_OnOwnerComputeStats_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MC_Explosion
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::MC_Explosion()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.MC_Explosion");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_MC_Explosion_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+// Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ExecuteUbergraph_Character_Wasteland_IronSentinel_Turret
+// ()
+void ACharacter_Wasteland_IronSentinel_Turret_C::ExecuteUbergraph_Character_Wasteland_IronSentinel_Turret()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function Character_Wasteland_IronSentinel_Turret.Character_Wasteland_IronSentinel_Turret_C.ExecuteUbergraph_Character_Wasteland_IronSentinel_Turret");
+
+	ACharacter_Wasteland_IronSentinel_Turret_C_ExecuteUbergraph_Character_Wasteland_IronSentinel_Turret_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+	fn->FunctionFlags = flags;
+
+}
+
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
